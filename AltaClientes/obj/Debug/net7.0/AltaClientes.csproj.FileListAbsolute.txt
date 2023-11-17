@@ -1,0 +1,14 @@
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\bin\Debug\net7.0\AltaClientes.exe
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\bin\Debug\net7.0\AltaClientes.deps.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\bin\Debug\net7.0\AltaClientes.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\bin\Debug\net7.0\AltaClientes.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\bin\Debug\net7.0\AltaClientes.pdb
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\obj\Debug\net7.0\AltaClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\obj\Debug\net7.0\AltaClientes.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\obj\Debug\net7.0\AltaClientes.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\obj\Debug\net7.0\AltaClientes.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\obj\Debug\net7.0\AltaClientes.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\obj\Debug\net7.0\refint\AltaClientes.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\obj\Debug\net7.0\AltaClientes.pdb
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\obj\Debug\net7.0\AltaClientes.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\AltaClientes\obj\Debug\net7.0\ref\AltaClientes.dll
